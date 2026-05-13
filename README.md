@@ -29,7 +29,8 @@ The objectives of this project are to:
 
 
 **Tech Stack**
-Python
-TensorFlow / Keras
-Scikit-learn
-Matplotlib
+
+- Python
+- TensorFlow / Keras
+- Scikit-learn
+- Matplotlib
