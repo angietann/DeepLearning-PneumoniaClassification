@@ -2,7 +2,7 @@
 
 Pneumonia Classification Using CNN & Transfer Learning
 
-This project explores deep learning approaches for pneumonia classification using chest X-ray images. The study compares custom Convolutional Neural Network (CNN) architectures against transfer learning using a pre-trained VGG16 model.
+This project explores deep learning approaches for pneumonia classification using chest X-ray images. The study compares custom Convolutional Neural Network (CNN) architectures and transfer learning using a pre-trained VGG16 model.
 
 Project Overview
 
